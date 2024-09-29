@@ -1,0 +1,6 @@
+﻿{
+  "Driver": {
+    "Type": "Chrome", // Chrome|Edge
+    "Headless": false
+  }
+}
